@@ -1,0 +1,19 @@
+
+	Welcome Web Code Bill
+
+ Bill Number :  9818
+ Cutomer Name :   an 
+ Phone No :       988
+======================================
+ Products		 Qty		Price
+======================================
+ Bath Soap 		  1		40
+ Face Wash 		  1		60
+ Rice 		  1		80
+ Rice 		 1		30
+--------------------------------------
+ Cosmetics Tax 			 Rs. 5.0
+ Grocery Tax 			 Rs. 0.8
+ Drink Tax 			 Rs. 1.5
+ Total Bill :			 Rs. 217.3
+-------------------------------------

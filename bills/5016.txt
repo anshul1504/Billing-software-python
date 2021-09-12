@@ -1,0 +1,18 @@
+
+	Welcome Web Code Bill
+
+ Bill Number :  5016
+ Cutomer Name :   anshul 
+ Phone No :       988
+======================================
+ Products		 Qty		Price
+======================================
+ Bath Soap 		1		40
+ Rice 		 1		80
+ Thums up 		 1		60
+--------------------------------------
+ Cosmetics Tax			 Rs. 2.0
+ Grocery Tax			 Rs. 0.8
+ Drink Tax			 Rs. 3.0
+ Total Bill :			 Rs. 185.8
+-------------------------------------

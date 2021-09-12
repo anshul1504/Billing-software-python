@@ -1,0 +1,19 @@
+
+	Welcome Web Code Bill
+
+ Bill Number :  4691
+ Cutomer Name :   Ans 
+ Phone No :       977
+======================================
+ Products		 Qty		Price
+======================================
+ Bath Soap 		  5		200
+ Face Cream 		  2		240
+ Food Oil 		  1		110
+ Maaza 		  4		160
+--------------------------------------
+ Cosmetics Tax 			 Rs. 22.0
+ Grocery Tax 			 Rs. 1.1
+ Drink Tax 			 Rs. 8.0
+ Total Bill :			 Rs. 741.1
+-------------------------------------

@@ -1,0 +1,18 @@
+
+	Welcome Web Code Bill
+
+ Bill Number :  7245
+ Cutomer Name :   anshul 
+ Phone No :       9755
+======================================
+ Products		 Qty		Price
+======================================
+ Bath Soap 		  1		40
+ Rice 		  1		80
+ Frooti 		  1		50
+--------------------------------------
+ Cosmetics Tax 			 Rs. 2.0
+ Grocery Tax 			 Rs. 0.8
+ Drink Tax 			 Rs. 2.5
+ Total Bill :			 Rs. 175.3
+-------------------------------------

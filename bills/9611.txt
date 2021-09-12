@@ -1,0 +1,28 @@
+
+	Welcome Web Code Bill
+
+ Bill Number :  9611
+ Cutomer Name :   Anshul 
+ Phone No :       9755838625
+======================================
+ Products		 Qty		Price
+======================================
+ Bath Soap 		  1		40
+ Face Cream 		  1		120
+ Face Wash 		  5		300
+ Hair Gel 		  5		700
+ Body Cream 		  5		900
+ Rice 		  4		320
+ Food Oil 		  1		110
+ Wheat 		  1		120
+ Daal 		  1		90
+ Sugar 		  1		45
+ Frooti 		  2		100
+ Thums up 		  2		120
+ Limka 		  1		80
+--------------------------------------
+ Cosmetics Tax 			 Rs. 103.0
+ Grocery Tax 			 Rs. 6.85
+ Drink Tax 			 Rs. 15.0
+ Total Bill :			 Rs. 3169.85
+-------------------------------------

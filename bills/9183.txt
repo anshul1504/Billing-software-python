@@ -1,0 +1,31 @@
+
+	Welcome Web Code Bill
+
+ Bill Number :  9183
+ Cutomer Name :   Anshul Agrawal 
+ Phone No :       9755838625
+======================================
+ Products		 Qty		Price
+======================================
+ Bath Soap 		1		40
+ Face Cream 		2		240
+ Face Wash 		1		60
+ Hair Gel 		7		980
+ Body Cream 		8		1440
+ Rice 		4		320
+ Food Oil 		1		110
+ Wheat 		2		240
+ Sugar 		5		225
+ Tea 		9		720
+ Rice 		1		30
+ Maaza 		2		80
+ Frooti 		3		150
+ Thums up 		5		300
+ Limka 		4		320
+ Mountain Dew 		2		200
+--------------------------------------
+ Cosmetics Tax			 Rs. 138.0
+ Grocery Tax			 Rs. 16.15
+ Drink Tax			 Rs. 54.0
+ Total Bill :			 Rs. 5663.15
+-------------------------------------
