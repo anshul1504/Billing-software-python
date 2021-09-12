@@ -1,0 +1,2 @@
+# Billing-software-python
+A complete billing software using software with lots of alert box and where the software must want customer details like name and contact no and where you can add the quantity of the given the product and where there the price of the all product is already set down on a code and after selecting the product you can see the an option to genrate bill with different bill no, customer details and with product quantity and and the total amount with tax.
